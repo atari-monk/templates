@@ -7,6 +7,12 @@
         "estimate": 10,
         "start": "17:40",
         "end": "17:57"
+      },
+      {
+        "taskId": 2,
+        "estimate": 10,
+        "start": "17:58",
+        "end": "18:11"
       }
     ]
   }

@@ -6,3 +6,4 @@ Standard files that serve as templates for various projects.
 ---
 
 - [Docs Template](docs_template/docs/index.md)  
+- [.prettierrc Template]()
