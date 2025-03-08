@@ -1,7 +1,7 @@
 # **Docs Template**  
 
 ### **Folder Structure**  
-This repository provides template files to set up a new project with a `docs` folder. It includes an organized structure:  
+Template files to set up a new project with a `docs` folder. It includes an organized structure:  
 
 ```plaintext
 docs/
